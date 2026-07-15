@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-nul97m.date-me.pro/sitemap.xml
